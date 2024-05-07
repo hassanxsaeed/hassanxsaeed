@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
  </a>  -->
  <!-- <a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt=""  /> -->
-  </a> 
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt=""  /> 
+  </a> -->
 </p>
 <br />
 
@@ -42,7 +42,7 @@
  # About Me
  
 <p>
- <img align="right" width="350" height="350" src="/assets/wallpaper.webp" alt="gif" />
+ <img align="right" width="250" height="300" src="/assets/wallpaper.webp" alt="gif" />
   <ul>
   <li>Trying to make an impact through coding and looking for missing semicolons. <br/><br/></li>
   <li>Open to chat about any tech interest! <br/><br/></li>

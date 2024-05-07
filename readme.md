@@ -57,10 +57,10 @@
 
 ## Languages & Platforms 
 
-![Python](https://img.shields.io/badge/python-16EE6A?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=16EE6A&color=151515)
-![C#](https://img.shields.io/badge/C%23-DC16EE?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=DC16EE&color=151515)
-![Django](https://img.shields.io/badge/Django-498F0D?style=for-the-badge&logo=django&logoColor=white&logoSize=auto&labelColor=498F0D&color=151515)
-![PowerBI](https://img.shields.io/badge/power--bi-EEE113?style=for-the-badge&logo=powerbi&logoColor=white&logoSize=auto&labelColor=EEE113&color=151515)
+![Python](https://img.shields.io/badge/python-16EE6A?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=38CC18&color=000000)
+![C#](https://img.shields.io/badge/C%23-DC16EE?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=BA14CA&color=000000)
+![Django](https://img.shields.io/badge/Django-498F0D?style=for-the-badge&logo=django&logoColor=white&logoSize=auto&labelColor=498F0D&color=000000)
+![PowerBI](https://img.shields.io/badge/power--bi-EEE113?style=for-the-badge&logo=powerbi&logoColor=white&logoSize=auto&labelColor=EEE113&color=000000)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

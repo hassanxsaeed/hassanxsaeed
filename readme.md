@@ -17,12 +17,11 @@
 </p>
 
 <p align="center">
- <!-- <a href="Website" target="blank"> -->
  
  <a href="https://linkedin.com/in/hassansaeed44" target="_blank">
- <img src="https://img.shields.io/badge/Linkedin-0762C8?style=for-the-badge&logo=linkedin&labelColor=0762C8&color=0762C8
- " alt="" />
+ <img src="https://img.shields.io/badge/Linkedin-0762C8?style=for-the-badge&logo=linkedin&labelColor=0762C8&color=0762C8" alt="LinkedIn" />
  </a>
+ <!-- <a href="Website" target="blank"> -->
  <!-- <a href="https://dev.to/" target="_blank">
  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="" />
  </a> -->
@@ -42,7 +41,7 @@
  # About Me
  
 <p>
- <img align="right" width="250" height="300" src="/assets/wallpaper.webp" alt="gif" />
+ <img align="right" width="200" height="250" src="/assets/wallpaper.webp" alt="gif" />
   <ul>
   <li>Trying to make an impact through coding and looking for missing semicolons. <br/><br/></li>
   <li>Open to chat about any tech interest! <br/><br/></li>

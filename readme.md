@@ -20,9 +20,11 @@
  <!-- <a href="Website" target="blank"> -->
  
  <a href="https://linkedin.com/in/hassansaeed44" target="_blank">
+ <img src="https://img.shields.io/badge/Linkedin-0762C8?style=for-the-badge&logo=linkedin&labelColor=0762C8&color=0762C8
+ " alt="" />
  </a>
  <!-- <a href="https://dev.to/" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="" />
+ <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="" />
  </a> -->
  <!-- <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -40,7 +42,7 @@
  # About Me
  
 <p>
- <img align="right" width="1080" height="1920" src="/assets/wallpaper.webp" alt="gif" />
+ <img align="right" width="350" height="350" src="/assets/wallpaper.webp" alt="gif" />
   <ul>
   <li>Trying to make an impact through coding and looking for missing semicolons. <br/><br/></li>
   <li>Open to chat about any tech interest! <br/><br/></li>
@@ -60,13 +62,13 @@
 ## Languages & Platforms 
 
 ![Python](https://img.shields.io/badge/python-16EE6A?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=16EE6A&color=151515)
-<!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 ![C#](https://img.shields.io/badge/C%23-DC16EE?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=DC16EE&color=151515)
 ![Django](https://img.shields.io/badge/Django-498F0D?style=for-the-badge&logo=django&logoColor=white&logoSize=auto&labelColor=498F0D&color=151515)
 ![PowerBI](https://img.shields.io/badge/power--bi-EEE113?style=for-the-badge&logo=powerbi&logoColor=white&logoSize=auto&labelColor=EEE113&color=151515)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 
 <!-- <br/> -->
 

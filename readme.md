@@ -44,7 +44,7 @@
  <img align="right" width="200" height="250" src="/assets/wallpaper.webp" alt="gif" />
   <ul>
   <li>Trying to make an impact through coding and looking for missing semicolons. <br/><br/></li>
-  <li>Open to chat about any tech interest! <br/><br/></li>
+  <li>Open to chat about any tech interest! Also, my favourite band is Radiohead. <br/><br/></li>
   <li>Reach me anytime at: hassansaeed1199@gmail.com <br/><br/></li>
 </ul>
   <!-- 💬 &emsp; Ask me about anything [here](https://github.com/NAME/NAME/issues) -->

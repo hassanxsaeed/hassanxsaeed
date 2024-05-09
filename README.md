@@ -45,7 +45,7 @@
   <ul>
   <li>Trying to make an impact through coding and looking for missing semicolons. <br/><br/></li>
   <li>Open to chat about any tech interest! Also, my favourite band is Radiohead. <br/><br/></li>
-  <li>Reach me anytime at: hassansaeed1199@gmail.com <br/><br/></li>
+  <li>Feel free to reach me anytime at: hassansaeed1199@gmail.com <br/><br/></li>
 </ul>
   <!-- 💬 &emsp; Ask me about anything [here](https://github.com/NAME/NAME/issues) -->
   <br/><br/>

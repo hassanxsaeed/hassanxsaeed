@@ -10,7 +10,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=">「 # 」</a> -->
     <br>
-    「 I am a Data Scientist under progress from <b>Pakistan.</b> 」
+    「 I am a software developer under progress from <b>Pakistan.</b> 」
     <br>
     <br>
   </samp>

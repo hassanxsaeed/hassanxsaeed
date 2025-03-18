@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/hassanxsaeed">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanxsaeed&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanxsaeed&theme=radical&border=7F3FBF&background=0D1117" alt="Hassan's GitHub Streak"/>
   </a>
 </p>
 
